@@ -18,4 +18,4 @@
 	url = https://github.com/mupen64plus/mupen64plus-audio-sdl
 [submodule "mupen64plus-core"]
 	path = mupen64plus-core
-	url = https://github.com/krnlyng/mupen64plus-core.git
+	url = https://github.com/mupen64plus/mupen64plus-core.git
