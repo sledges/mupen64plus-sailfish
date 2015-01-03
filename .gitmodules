@@ -7,9 +7,6 @@
 [submodule "mupen64plus-input-sdl"]
 	path = mupen64plus-input-sdl
 	url = https://github.com/mupen64plus/mupen64plus-input-sdl
-[submodule "mupen64plus-video-glide64mk2"]
-	path = mupen64plus-video-glide64mk2
-	url = https://github.com/mupen64plus/mupen64plus-video-glide64mk2
 [submodule "mupen64plus-input-sdltouch"]
 	path = mupen64plus-input-sdltouch
 	url = https://github.com/krnlyng/mupen64plus-input-sdltouch
