@@ -10,7 +10,7 @@ URL:		http://code.google.com/p/mupen64plus
 Source0:	%{name}-%{version}.tar.bz2
 
 BuildRequires:	bash
-BuildRequires:	gcc-c++
+#BuildRequires:	gcc-c++
 BuildRequires:	boost-devel
 BuildRequires:	pkgconfig(libpng)
 BuildRequires:	pkgconfig(glesv2)
